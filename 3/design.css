@@ -1,0 +1,771 @@
+
+
+.day-1542-users-list-ui-design {
+  align-items: flex-start;
+  background-color: #e6eaf8;
+  display: flex;
+  height: 1200px;
+  padding: 0 193px;
+  width: 1600px;
+}
+
+.day-1542-users-list-ui-design .overlap-group {
+  height: 854px;
+  margin-top: 173px;
+  position: relative;
+  width: 1213px;
+}
+
+.day-1542-users-list-ui-design .rectangle-1 {
+  background-color: #bcc5e6;
+  filter: blur(124px);;
+  height: 183px;
+  left: 53px;
+  position: absolute;
+  top: 671px;
+  width: 1113px;
+}
+
+.day-1542-users-list-ui-design .frame-28 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 830px;
+  padding: 100px 0;
+  position: absolute;
+  top: 0;
+  width: 1213px;
+}
+
+.day-1542-users-list-ui-design .frame-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 128px;
+  width: 1013px;
+}
+
+.day-1542-users-list-ui-design .title {
+  color: var(--x151b32);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-height: 40px;
+}
+
+.day-1542-users-list-ui-design .frame-25 {
+  align-items: center;
+  display: flex;
+  margin-top: 25px;
+  min-width: 1013px;
+}
+
+.day-1542-users-list-ui-design .frame-2-1 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  height: 64px;
+  min-width: 327px;
+  padding: 0 16px;
+}
+
+.day-1542-users-list-ui-design .icon-search {
+  height: 32px;
+  width: 32px;
+}
+
+.day-1542-users-list-ui-design .search-users {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 8px;
+  min-height: 24px;
+  min-width: 105px;
+  opacity: 0.7;
+}
+
+.day-1542-users-list-ui-design .frame-5 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  margin-left: 152px;
+  overflow: hidden;
+  padding: 0 16px;
+  width: 534px;
+}
+
+.day-1542-users-list-ui-design .reputation {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  min-height: 24px;
+  min-width: 89px;
+  opacity: 0.8;
+}
+
+.day-1542-users-list-ui-design .frame-4 {
+  align-items: flex-start;
+  background-color: #839fff;
+  border-radius: 8px;
+  display: flex;
+  height: 56px;
+  margin-left: 16px;
+  min-width: 115px;
+  padding: 15px 16px;
+}
+
+.day-1542-users-list-ui-design .new-users {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 24px;
+}
+
+.day-1542-users-list-ui-design .voters {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 16px;
+  min-height: 24px;
+  min-width: 53px;
+  opacity: 0.8;
+}
+
+.day-1542-users-list-ui-design .editors {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 32px;
+  min-height: 24px;
+  min-width: 55px;
+  opacity: 0.8;
+}
+
+.day-1542-users-list-ui-design .moderators {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 32px;
+  min-height: 24px;
+  min-width: 94px;
+  opacity: 0.8;
+}
+
+.day-1542-users-list-ui-design .frame-27 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+  min-height: 432px;
+  width: 1013px;
+}
+
+.day-1542-users-list-ui-design .frame-22 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1013px;
+}
+
+.day-1542-users-list-ui-design .frame-19 {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border-radius: 16px;
+  display: flex;
+  height: 208px;
+  min-width: 327px;
+  padding: 24px;
+}
+
+.day-1542-users-list-ui-design .ellipse-1 {
+  height: 97px;
+  width: 97px;
+}
+
+.day-1542-users-list-ui-design .frame-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 106px;
+  width: 125px;
+}
+
+.day-1542-users-list-ui-design .frame-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 68px;
+  padding: 1px 0;
+  width: 125px;
+}
+
+.day-1542-users-list-ui-design .lelah-nichols {
+  letter-spacing: 0;
+  margin-top: 18px;
+  min-height: 23px;
+}
+
+.day-1542-users-list-ui-design .troy-mi {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 21px;
+}
+
+.day-1542-users-list-ui-design .frame-21 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 16px;
+  min-width: 112px;
+}
+
+.day-1542-users-list-ui-design .frame-8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 61px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .clothes {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 47px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .place {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-20-1 {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border-radius: 16px;
+  box-shadow: 0px 8px 23px #d9e0f8b2;
+  display: flex;
+  height: 208px;
+  margin-left: 16px;
+  min-width: 327px;
+  padding: 24px;
+}
+
+.day-1542-users-list-ui-design .ellipse-1-1 {
+  height: 97px;
+  object-fit: cover;
+  width: 97px;
+}
+
+.day-1542-users-list-ui-design .frame-20-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 132px;
+  width: 131px;
+}
+
+.day-1542-users-list-ui-design .frame-18-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 68px;
+  padding: 1px 0;
+  width: 106px;
+}
+
+.day-1542-users-list-ui-design .name {
+  letter-spacing: 0;
+  margin-top: 18px;
+  min-height: 23px;
+}
+
+.day-1542-users-list-ui-design .fort-worth-tx {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 21px;
+}
+
+.day-1542-users-list-ui-design .frame-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+  min-height: 48px;
+  width: 131px;
+}
+
+.day-1542-users-list-ui-design .frame-21-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 131px;
+}
+
+.day-1542-users-list-ui-design .frame-8-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 66px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .headset {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 61px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .gadget {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-10 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 4px;
+  min-width: 112px;
+}
+
+.day-1542-users-list-ui-design .frame-8-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 54px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .speed {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 54px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .place-1 {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-2 {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border-radius: 16px;
+  display: flex;
+  height: 208px;
+  margin-left: 16px;
+  min-width: 327px;
+  padding: 24px;
+}
+
+.day-1542-users-list-ui-design .frame-20-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 132px;
+  width: 166px;
+}
+
+.day-1542-users-list-ui-design .frame-18-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 68px;
+  padding: 1px 0;
+  width: 98px;
+}
+
+.day-1542-users-list-ui-design .name-1 {
+  letter-spacing: 0;
+  margin-top: 18px;
+  min-height: 23px;
+}
+
+.day-1542-users-list-ui-design .austin-tx {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 21px;
+}
+
+.day-1542-users-list-ui-design .frame-24-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+  min-height: 48px;
+  width: 166px;
+}
+
+.day-1542-users-list-ui-design .frame-21-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 166px;
+}
+
+.day-1542-users-list-ui-design .frame-8-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 45px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .road {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 76px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .place-2 {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-10-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 37px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .trip {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-10-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 4px;
+  min-width: 110px;
+}
+
+.day-1542-users-list-ui-design .frame-8-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 49px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .place-3 {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 57px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .nature {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-23 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 16px;
+  min-width: 1013px;
+}
+
+.day-1542-users-list-ui-design .frame-20-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 132px;
+  width: 152px;
+}
+
+.day-1542-users-list-ui-design .frame-18-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 68px;
+  padding: 1px 0;
+  width: 134px;
+}
+
+.day-1542-users-list-ui-design .name-2 {
+  letter-spacing: 0;
+  margin-top: 18px;
+  min-height: 23px;
+}
+
+.day-1542-users-list-ui-design .cincinnati-oh {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 21px;
+}
+
+.day-1542-users-list-ui-design .frame-24-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+  min-height: 48px;
+  width: 152px;
+}
+
+.day-1542-users-list-ui-design .frame-21-3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 152px;
+}
+
+.day-1542-users-list-ui-design .frame-8-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 97px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .maintenance {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 51px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .gears {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-10-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 4px;
+  min-width: 117px;
+}
+
+.day-1542-users-list-ui-design .frame-8-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 60px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .frames {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 53px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .repair {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-20-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 106px;
+  width: 132px;
+}
+
+.day-1542-users-list-ui-design .frame-18-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 68px;
+  padding: 1px 0;
+  width: 132px;
+}
+
+.day-1542-users-list-ui-design .name-3 {
+  letter-spacing: 0;
+  margin-top: 18px;
+  min-height: 23px;
+}
+
+.day-1542-users-list-ui-design .warrior-al {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 21px;
+}
+
+.day-1542-users-list-ui-design .frame-21-4 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 16px;
+  min-width: 104px;
+}
+
+.day-1542-users-list-ui-design .frame-8-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 53px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .music {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .disks {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-20-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 106px;
+  width: 162px;
+}
+
+.day-1542-users-list-ui-design .frame-18-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 68px;
+  padding: 1px 0;
+  width: 162px;
+}
+
+.day-1542-users-list-ui-design .name-4 {
+  letter-spacing: 0;
+  margin-top: 18px;
+  min-height: 23px;
+}
+
+.day-1542-users-list-ui-design .lyndhurst-nj {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 21px;
+}
+
+.day-1542-users-list-ui-design .frame-21-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 16px;
+  min-width: 129px;
+}
+
+.day-1542-users-list-ui-design .frame-8-8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  min-width: 63px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .vintage {
+  letter-spacing: 0;
+  min-height: 18px;
+}
+
+.day-1542-users-list-ui-design .frame-9-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 22px;
+  margin-left: 4px;
+  min-width: 62px;
+  padding: 1px 8px;
+}
+
+.day-1542-users-list-ui-design .electric {
+  letter-spacing: 0;
+  min-height: 18px;
+}
